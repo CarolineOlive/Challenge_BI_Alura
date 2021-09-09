@@ -11,14 +11,12 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 <!--Título da semana 1 -->
 <h2><a id="week01"</a>Semana 1: Desafio de logística - Alura Log</h2>
   <p>A empresa de logística <b>Alura Log</b> possui uma gama de produtos e faz entregas para todo o país. Ela quer manter a qualidade do serviço prestado e, por isso, precisa de obter constantemente informações para tomada de decisões de forma mais eficaz.</p>
-  <br>
   <h3><strong>Dados</strong></h3>
     <p>Foram disponibilizadas 4 bases de dados sobre logística no formato CSV sendo essas bases:</p>
       <li>tabela pedidos - contém o registro de todos os pedidos feitos pelos clientes.</li>
       <li>tabela produtos - contém os produtos cadastrados e seus valores.</li>
       <li>tabela veículos - contém veículos registrados que fazem o transporte dos produtos.</li>
       <li>tabela estoque - contém o registro de estoque dos produtos por mês.</li>
-  <br>
   <h3><strong>Tratamento dos dados</strong></h3>
     <p> O tratamento dos dados e desenvolvimento do Dashboard foi feito utilizando a ferramenta Power BI.</p>
   <h3><strong>Resultado</strong></h3>
