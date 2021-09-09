@@ -17,8 +17,29 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
       <li>tabela produtos - contém os produtos cadastrados e seus valores.</li>
       <li>tabela veículos - contém veículos registrados que fazem o transporte dos produtos.</li>
       <li>tabela estoque - contém o registro de estoque dos produtos por mês.</li>
+      
   <h3><strong>Tratamento dos dados</strong></h3>
-    <p> O tratamento dos dados e desenvolvimento do Dashboard foi feito utilizando a ferramenta Power BI.</p>
+    <p> O tratamento dos dados e desenvolvimento do Dashboard foi feito utilizando a ferramenta Power BI e Power Query.</p>
+    <p>Foram feitos os seguintes tratamentos:</p>
+    <p><b>Tabela pedidos:</b></p>
+    <ul>
+      <li>alteração da tipagem das colunas</li>
+      <li>formatação dos dados das colunas latitude e longitude e alteração da categoria</li>
+      <li>formatação da coluna data de entrega e substituição do erro do formato (células sem data) por <i>null</i></li>
+    </ul>
+    <p><b>Tabela produtos:</b></p>
+    <ul>
+      <li>alteração da tipagem das colunas</li>
+      <li>separação da ID do Produto do nome do produto</li>
+    </ul>
+    <p><b>Tabela veículos:</b></p>
+    <ul>
+      <li>formatação dos dados da coluna ID Veículo</li>
+    </ul>
+    <p><b>Tabela estoque:</b></p>
+    <ul>
+      <li>formatação dos dados de data</li>
+    </ul>
   <h3><strong>Resultado</strong></h3>
     <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Logística</a></strong></p>
 
