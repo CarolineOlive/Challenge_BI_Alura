@@ -9,6 +9,9 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 
 <h2><a id="week01"</a>Semana 1: Desafio de logística - Alura Log</h2>
 
+<p><strong>Dashboard</strong></p>
+https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9
+
 <h2><a id="week02"</a>Semana 2: em breve...</h2>
 
 <h2><a id="week03"</a>Semana 3: em breve...</h2>
