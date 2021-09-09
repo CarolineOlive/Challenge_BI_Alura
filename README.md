@@ -9,8 +9,15 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 
 <h2><a id="week01"</a>Semana 1: Desafio de logística - Alura Log</h2>
 
-<p><strong>Dashboard</strong></p>
-https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9
+<h3><strong>Dados</strong></h3>
+Foram disponibilizadas 4 bases de dados sobre logística no formato CSV sendo essas bases:
+<li>tabela pedidos - contém o registro de todos os pedidos feitos pelos clientes.</li>
+<li>tabela produtos - contém os produtos cadastrados e seus valores.</li>
+<li>tabela veículos - contém veículos registrados que fazem o transporte dos produtos.</li>
+<li>tabela estoque - contém o registro de estoque dos produtos por mês.</li>
+<br>
+
+<p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Logística</a></strong></p>
 
 <h2><a id="week02"</a>Semana 2: em breve...</h2>
 
