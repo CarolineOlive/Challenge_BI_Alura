@@ -41,7 +41,18 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
       <li>formatação dos dados de data</li>
     </ul>
   <h3><strong>Resultado</strong></h3>
-    <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Logística</a></strong></p>
+    <p><b>Requisitos:</b></p>
+    <ul>
+      <li>visualizar a quantidade de entregas feitas no prazo
+      <li>visualizar a quantidade de entregas feitas em atraso
+      <li>mostrar o número de veículos disponíveis
+      <li>calcular o Ship to Door (S2D) em dias
+      <li>visualizar o nível médio de estoque por ano
+      <li>mostrar o índice de ocorrências por estado
+    </ul> 
+    <p><b>Outros Insights:</b></p>
+      <p>Em construção...</p>
+      <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Logística</a></strong></p>
 
 <!--Título da semana 1 -->
 <h2><a id="week02"</a>Semana 2: em breve...</h2>
