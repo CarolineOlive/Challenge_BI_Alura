@@ -6,7 +6,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 
   <li><a href="#week01"> Semana 1: Desafio de logística - Alura Log</a></li>
   <li><a href="#week02"> Semana 2: Desafio de marketing - Alura Shop</a></li>
-  <li><a href="#week03"> Semanas 3 e 4: Desafio de finanças </a></li>
+  <li><a href="#week03"> Semanas 3 e 4: Desafio de finanças - Alura Store </a></li>
   
 <!--Título da semana 1 -->
 <h2><a id="week01"</a>Semana 1: Desafio de logística - Alura Log</h2>
@@ -83,8 +83,8 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     <p><strong><a href="">Dashboard Marketing</a></strong></p>
         
 <!--Título da semana 3 -->
-<h2><a id="week03"</a>Semana 3: Desafio de finanças</h2>
-  <p>Desenvolveremos um dashboard tático da área financeira de uma empresa, no qual vamos criar duas páginas, sendo uma delas exibindo um overview de toda a área financeira e a outra página  realizando uma análise de cenários.</p>
+<h2><a id="week03"</a>Semana 3: Desafio de finanças - Alura Store</h2>
+  <p>Desenvolveremos um dashboard tático da área financeira da Alura Store, no qual vamos criar duas páginas, sendo uma delas exibindo um overview de toda a área financeira e a outra página  realizando uma análise de cenários.</p>
   <p>Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:</p>
     <li> 1. Overview financeiro.
     <li> 2. Análise de cenário.
