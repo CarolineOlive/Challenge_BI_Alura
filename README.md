@@ -5,8 +5,8 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 <h1>Desafios</h1>
 
   <li><a href="#week01"> Semana 1: Desafio de logística - Alura Log</a></li>
-  <li><a href="#week02"> Semana 2: em breve...</a></li>
-  <li><a href="#week03"> Semana 3: em breve...</a></li>
+  <li><a href="#week02"> Semana 2: Desafio de marketing - Alura Shop</a></li>
+  <li><a href="#week03"> Semanas 3 e 4: Desafio de finanças </a></li>
   
 <!--Título da semana 1 -->
 <h2><a id="week01"</a>Semana 1: Desafio de logística - Alura Log</h2>
@@ -40,7 +40,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     <ul>
       <li>formatação dos dados de data</li>
     </ul>
-  <h3><strong>Resultado</strong></h3>
+  <h3><strong>Resultados</strong></h3>
     <p><b>Requisitos:</b></p>
     <ul>
       <li>visualizar a quantidade de entregas feitas no prazo
@@ -51,12 +51,60 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
       <li>mostrar o índice de ocorrências por estado
     </ul> 
     <p><b>Outros Insights:</b></p>
-      <p>Em construção...</p>
-      <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection7580818ca472c07d4a04">Dashboard Logística</a></strong></p>
+   
+   <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection7580818ca472c07d4a04">Dashboard Logística</a></strong></p>
 
-<!--Título da semana 1 -->
-<h2><a id="week02"</a>Semana 2: em breve...</h2>
-
-<!--Título da semana 1 -->
-<h2><a id="week03"</a>Semana 3: em breve...</h2>
-
+<!--Título da semana 2 -->
+<h2><a id="week02"</a>Semana 2: Desafio de marketing - Alura Shop</h2>
+  <p>A Alura Shop investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito.</p>
+  <p>A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos indicadores relevantes para a validação estratégica do negócio.</p>
+  <h3><strong>Dados</strong></h3>
+    <p>Foram disponibilizadas 2 bases de dados no formato JSON sendo essas bases:</p>
+      <li>Tabela dipositivos
+      <li>Tabela idade e gênero
+      <p>Ambas possuem as mesma informações, a primeira em função dos dispositivos e a segunda em função da idade e gênero.
+  <h3><strong>Resultados</strong></h3>
+   <p><b>Requisitos:</b></p>
+   <ul>
+      <li>calcular o total de compras
+      <li>calcular o total de valor convertido em compras
+      <li>mostrar o total do valor investido na campanha
+      <li>calcular o custo por clique
+      <li>exibir a jornada de compra
+      <li>calcular a taxa de conversão
+      <li>mostrar o ticket médio por dispositivo
+      <li>mostrar retorno do investimento em publicidade (ROAS) por idade e gênero
+      <li>calcular o valor convertido em compras por dia
+      <li>configurar o relatório para que atualize todo dia útil às 9 horas da manhã
+      <li>exibir data e hora da atualização
+    </ul>       
+  <h3><strong>Dashboard</strong></h3>
+        <p><b>Em construção...</b></p>
+    <p><strong><a href="">Dashboard Marketing</a></strong></p>
+        
+<!--Título da semana 3 -->
+<h2><a id="week03"</a>Semana 3: Desafio de finanças</h2>
+  <p>Desenvolveremos um dashboard tático da área financeira de uma empresa, no qual vamos criar duas páginas, sendo uma delas exibindo um overview de toda a área financeira e a outra página  realizando uma análise de cenários.</p>
+  <p>Teremos duas etiquetas indicando o que precisaremos pensar, sendo elas:</p>
+    <li> 1. Overview financeiro.
+    <li> 2. Análise de cenário.
+  <h3><strong>Dados</strong></h3>
+    <p>Foram disponibilizadas 4 bases de dados sobre o setor financeiro, no formato mysql, sendo essas bases:</p>
+      <li>Notas fiscais
+      <li>Pedidos
+      <li>Produtos
+      <li>Vendedores
+  <h3><strong>Resultados</strong></h3>
+   <p><b>Requisitos:</b></p>
+   <ul>
+      <li>calcular a receita
+      <li>calcular o lucro
+      <li>exibir os custos
+      <li>calcular e exibir despesas
+      <li>analisar e exibir mensalmente as métricas
+      <li>escolher o ano a ser analisado
+      <li>análise de cenário
+    </ul>       
+  <h3><strong>Dashboard</strong></h3>
+         <p><b>Em construção...</b></p>
+    <p><strong><a href="">Dashboard Financeiro</a></strong></p>
