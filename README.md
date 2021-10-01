@@ -60,9 +60,9 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
   <p>A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos indicadores relevantes para a validação estratégica do negócio.</p>
   <h3><strong>Dados</strong></h3>
     <p>Foram disponibilizadas 2 bases de dados no formato JSON sendo essas bases:</p>
-      <li>Tabela dipositivos
-      <li>Tabela idade e gênero
-      <p>Ambas possuem as mesma informações, a primeira em função dos dispositivos e a segunda em função da idade e gênero.
+      <li>Tabela dipositivos - contém informações de acessos por dispositivo.
+      <li>Tabela idade e gênero - contém informações de pessoas que acessaram a página e realizaram ou não compras.
+      <p>Ambas possuem os mesmos tipos de informações, a primeira em função dos dispositivos e a segunda em função da idade e gênero.
   <h3><strong>Resultados</strong></h3>
    <p><b>Requisitos:</b></p>
    <ul>
