@@ -52,7 +52,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     </ul> 
     <p><b>Outros Insights:</b></p>
       <p>Em construção...</p>
-      <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Logística</a></strong></p>
+      <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiYWIyNDhjNWEtYzQxZS00Yzk4LTllZTctZTU0OWI1ODk0ZTQ3IiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Logística</a></strong></p>
 
 <!--Título da semana 1 -->
 <h2><a id="week02"</a>Semana 2: em breve...</h2>
