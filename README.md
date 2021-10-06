@@ -54,6 +54,8 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
    
    <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection">Dashboard Logística</a></strong></p>
 
+<img src="https://github.com/CarolineOlive/Challenge_BI_Alura/blob/main/alura_log.png"/>
+
 <!--Título da semana 2 -->
 <h2><a id="week02"</a>Semana 2: Desafio de marketing - Alura Shop</h2>
   <p>A Alura Shop investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito.</p>
@@ -80,6 +82,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     </ul>       
   <h3><strong>Dashboard</strong></h3>
     <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiYWUzYzVjYWYtYTQxYi00YWY3LWEzODAtMjBmNGNkNmJmMGYzIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection">Dashboard Marketing</a></strong></p>
+    <img src="https://github.com/CarolineOlive/Challenge_BI_Alura/blob/main/alura_shop.png"/>
         
 <!--Título da semana 3 -->
 <h2><a id="week03"</a>Semana 3: Desafio de finanças - Alura Store</h2>
