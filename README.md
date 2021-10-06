@@ -80,7 +80,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     </ul>       
   <h3><strong>Dashboard</strong></h3>
         <p><b>Em construção...</b></p>
-    <p><strong><a href="">Dashboard Marketing</a></strong></p>
+    <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiYWUzYzVjYWYtYTQxYi00YWY3LWEzODAtMjBmNGNkNmJmMGYzIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection">Dashboard Marketing</a></strong></p>
         
 <!--Título da semana 3 -->
 <h2><a id="week03"</a>Semana 3: Desafio de finanças - Alura Store</h2>
