@@ -11,6 +11,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 <!--Título da semana 1 -->
 <h2><a id="week01"</a>Semana 1: Desafio de logística - Alura Log</h2>
   <p>A empresa de logística <b>Alura Log</b> possui uma gama de produtos e faz entregas para todo o país. Ela quer manter a qualidade do serviço prestado e, por isso, precisa de obter constantemente informações para tomada de decisões de forma mais eficaz.</p>
+  <img src="https://github.com/CarolineOlive/Challenge_BI_Alura/blob/main/alura_log.png"/>
   <h3><strong>Dados</strong></h3>
     <p>Foram disponibilizadas 4 bases de dados sobre logística no formato CSV sendo essas bases:</p>
       <li>tabela pedidos - contém o registro de todos os pedidos feitos pelos clientes.</li>
@@ -54,12 +55,11 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
    
    <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection">Dashboard Logística</a></strong></p>
 
-<img src="https://github.com/CarolineOlive/Challenge_BI_Alura/blob/main/alura_log.png"/>
-
 <!--Título da semana 2 -->
 <h2><a id="week02"</a>Semana 2: Desafio de marketing - Alura Shop</h2>
   <p>A Alura Shop investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito.</p>
   <p>A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos indicadores relevantes para a validação estratégica do negócio.</p>
+  <img src="https://github.com/CarolineOlive/Challenge_BI_Alura/blob/main/alura_shop.png"/>
   <h3><strong>Dados</strong></h3>
     <p>Foram disponibilizadas 2 bases de dados no formato JSON sendo essas bases:</p>
       <li>Tabela dipositivos - contém informações de acessos por dispositivo.
@@ -82,7 +82,6 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     </ul>       
   <h3><strong>Dashboard</strong></h3>
     <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiYWUzYzVjYWYtYTQxYi00YWY3LWEzODAtMjBmNGNkNmJmMGYzIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection">Dashboard Marketing</a></strong></p>
-    <img src="https://github.com/CarolineOlive/Challenge_BI_Alura/blob/main/alura_shop.png"/>
         
 <!--Título da semana 3 -->
 <h2><a id="week03"</a>Semana 3: Desafio de finanças - Alura Store</h2>
