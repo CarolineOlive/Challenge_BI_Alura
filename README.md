@@ -52,7 +52,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
     </ul> 
     <p><b>Outros Insights:</b></p>
    
-   <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection7580818ca472c07d4a04">Dashboard Logística</a></strong></p>
+   <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjg3ODQzMTktMWVjOC00ZDBhLTk0ZmItNmY3MmE4Y2UxMjRjIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection">Dashboard Logística</a></strong></p>
 
 <!--Título da semana 2 -->
 <h2><a id="week02"</a>Semana 2: Desafio de marketing - Alura Shop</h2>
