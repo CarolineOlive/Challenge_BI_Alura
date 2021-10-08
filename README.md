@@ -2,6 +2,9 @@
 Repositório destinado a compartilhar os projetos desenvolvidos durante o Challenge de BI da Alura.  
 #alurachallengebi
 
+## Badges
+<img alt="badge1" height="160" width="160" src="https://media.discordapp.net/attachments/894955747656482886/894956560311263232/Badge_AlurBI_-_First_.png?width=473&height=473"/>
+
 <h1>Desafios</h1>
 
   <li><a href="#week01"> Semana 1: Desafio de logística - Alura Log</a></li>
