@@ -3,8 +3,7 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
 #alurachallengebi
 
 ## Badges
-<img alt="badge1" height="160" width="160" src="https://media.discordapp.net/attachments/894955747656482886/894956560311263232/Badge_AlurBI_-_First_.png?width=473&height=473"/>
-<img alt="badge1" height="160" width="160" src="https://ci4.googleusercontent.com/proxy/vn3Si6VmIVBsf8hKQ8LJFljIBIthFrT51DLaeqlwH_sOk20N5OCzGccoHbuJKPI75SIyRGcTxdxkP14IEEi5My-Xy5jc70-Klima_FaxbbgfcI60o9GRFTsRFmXVWcw9klaJq9x3U2obPf6pRJRK6MyYY_i4vOSW=s0-d-e1-ft#https://user-images.githubusercontent.com/79534537/137536379-7621259e-c9c3-47f2-b6a8-c9ef3b738d86.png"/>
+<img alt="badge1" height="160" width="160" src="https://media.discordapp.net/attachments/894955747656482886/894956560311263232/Badge_AlurBI_-_First_.png?width=473&height=473"/><img alt="badge1" height="160" width="160" src="https://ci4.googleusercontent.com/proxy/vn3Si6VmIVBsf8hKQ8LJFljIBIthFrT51DLaeqlwH_sOk20N5OCzGccoHbuJKPI75SIyRGcTxdxkP14IEEi5My-Xy5jc70-Klima_FaxbbgfcI60o9GRFTsRFmXVWcw9klaJq9x3U2obPf6pRJRK6MyYY_i4vOSW=s0-d-e1-ft#https://user-images.githubusercontent.com/79534537/137536379-7621259e-c9c3-47f2-b6a8-c9ef3b738d86.png"/>
 <h1>Desafios</h1>
 
   <li><a href="#week01"> Semana 1: Desafio de logística - Alura Log</a></li>
