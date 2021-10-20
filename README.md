@@ -2,9 +2,6 @@
 Repositório destinado a compartilhar os projetos desenvolvidos durante o Challenge de BI da Alura.  
 #alurachallengebi
 
-## Badges
-<img alt="badge1" height="160" width="160" src="https://media.discordapp.net/attachments/894955747656482886/894956560311263232/Badge_AlurBI_-_First_.png?width=473&height=473"/><img alt="badge1" height="160" width="160" src="https://camo.githubusercontent.com/72abc3e59c3067ddc923b9eecc2ef7ff431233a779af17b8806e9d8a6272db47/68747470733a2f2f692e706f7374696d672e63632f59535444503447332f42616467652d416c75722d42492d48656c7065722e706e67"/> <img alt="badge1" height="160" width="160" src="https://ci4.googleusercontent.com/proxy/vn3Si6VmIVBsf8hKQ8LJFljIBIthFrT51DLaeqlwH_sOk20N5OCzGccoHbuJKPI75SIyRGcTxdxkP14IEEi5My-Xy5jc70-Klima_FaxbbgfcI60o9GRFTsRFmXVWcw9klaJq9x3U2obPf6pRJRK6MyYY_i4vOSW=s0-d-e1-ft#https://user-images.githubusercontent.com/79534537/137536379-7621259e-c9c3-47f2-b6a8-c9ef3b738d86.png"/> <img alt="badge1" height="160" width="160" src="https://cdn.discordapp.com/attachments/899969795951321118/900124766487330866/Badge_AlurBI_-_Talker.png"/> 
-
 
 <h1>Desafios</h1>
 
@@ -113,3 +110,6 @@ Repositório destinado a compartilhar os projetos desenvolvidos durante o Challe
   <h3><strong>Dashboard</strong></h3>
          <p><b>Em construção...</b></p>
     <p><strong><a href="">Dashboard Financeiro</a></strong></p>
+        
+<h1>Badges</h1>
+<img alt="badge1" height="160" width="160" src="https://media.discordapp.net/attachments/894955747656482886/894956560311263232/Badge_AlurBI_-_First_.png?width=473&height=473"/><img alt="badge1" height="160" width="160" src="https://camo.githubusercontent.com/72abc3e59c3067ddc923b9eecc2ef7ff431233a779af17b8806e9d8a6272db47/68747470733a2f2f692e706f7374696d672e63632f59535444503447332f42616467652d416c75722d42492d48656c7065722e706e67"/> <img alt="badge1" height="160" width="160" src="https://ci4.googleusercontent.com/proxy/vn3Si6VmIVBsf8hKQ8LJFljIBIthFrT51DLaeqlwH_sOk20N5OCzGccoHbuJKPI75SIyRGcTxdxkP14IEEi5My-Xy5jc70-Klima_FaxbbgfcI60o9GRFTsRFmXVWcw9klaJq9x3U2obPf6pRJRK6MyYY_i4vOSW=s0-d-e1-ft#https://user-images.githubusercontent.com/79534537/137536379-7621259e-c9c3-47f2-b6a8-c9ef3b738d86.png"/> <img alt="badge1" height="160" width="160" src="https://cdn.discordapp.com/attachments/899969795951321118/900124766487330866/Badge_AlurBI_-_Talker.png"/> 
